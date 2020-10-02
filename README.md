@@ -62,13 +62,13 @@ In these Analysis I have Performed different Steps as follows:
 ## Analysis
 
 1)Histogram And Box Plot For All Numerical Column
-![](Figures/Histigram and Box Plot.png)
+![](Figures/Histigram_and_Box_Plot.png)
 
 2)Scatter Plot For All Numerical Varaible
-![](Figures/Scatter Plot.png)
+![](Figures/Scatter_Plot.png)
 
 3)Regression Line in Scatter Plot
-![](Figures/Regression Plot.png)
+![](Figures/Regression_Plot.png)
 
 4)Correlation Using HeatMap
 ![](Figures/Heatmap.png)
@@ -80,7 +80,7 @@ In these Analysis I have Performed different Steps as follows:
 ![](Figures/BestFitLine.png)
 
 7)Error Distribution
-![](Figures/Error Distribution.png)
+![](Figures/Error_Distribution.png)
 
 ## Conclusion
 
