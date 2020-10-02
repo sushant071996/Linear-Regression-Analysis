@@ -86,6 +86,7 @@ In these Analysis I have Performed different Steps as follows:
 ![](Figures/BestFitLine.png)
 
 7)Error Distribution
+
 ![](Figures/Error_Distribution.png)
 
 ## Conclusion
