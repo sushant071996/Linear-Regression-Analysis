@@ -6,6 +6,7 @@ In this project I'm trying to analyze and visualize the Net Income from the data
 In these Analysis I have Performed different Steps as follows:
 
 1)Data Cleaning
+
     outlier treatment
     column rename
     drop unwanted Column
