@@ -61,22 +61,28 @@ In these Analysis I have Performed different Steps as follows:
     
 ## Analysis
 
-1)Histogram And Box Plot For All Numerical Column
+1)Histogram And Box Plot
+
 ![](Figures/Histigram_and_Box_Plot.png)
 
-2)Scatter Plot For All Numerical Varaible
+2)Scatter Plot
+
 ![](Figures/Scatter_Plot.png)
 
 3)Regression Line in Scatter Plot
+
 ![](Figures/Regression_Plot.png)
 
 4)Correlation Using HeatMap
+
 ![](Figures/Heatmap.png)
 
 5)Box Plot For Anova
+
 ![](Figures/BoxPlot.png)
 
 6)Visualization of best fit line
+
 ![](Figures/BestFitLine.png)
 
 7)Error Distribution
