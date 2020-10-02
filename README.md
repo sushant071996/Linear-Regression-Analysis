@@ -12,15 +12,18 @@ In these Analysis I have Performed different Steps as follows:
     drop unwanted Column
    
 2)Exploratory Data Analysis
+
     Univariant Analysis
     Bivariant Analysis
     Correlation
     Anova
 
 3)Model Development(OLS Model) And Testing
+
     OlS(min SSE)
 
 4)Error Evaluation
+
     R-square
     Adjusted R-square
 
